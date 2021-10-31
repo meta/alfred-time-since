@@ -15,4 +15,4 @@ Use the packaged workflow [Time_Since.alfredworkflow](https://github.com/meta/re
 Two options will appear, where the first option shows the duration since the time until now.
 And the second option shows the exact UTC time convereted to local time.
 
-(TODO: insert screenshot here)
+![image](https://user-images.githubusercontent.com/5732757/139564511-08c91580-c84c-4cb0-99d7-71e8d3657608.png)
