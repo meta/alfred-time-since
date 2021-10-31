@@ -7,6 +7,9 @@ Also available at: [packal/Time Since](http://www.packal.org/workflow/time)
 # Install
 Use the packaged workflow [Time_Since.alfredworkflow](https://github.com/meta/repository/raw/master/com.meta/Time_Since.alfredworkflow) from packal.
 
+# Requirement
+- [node](https://nodejs.org/en/)
+
 # How to
 
 ## Get the time
